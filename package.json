@@ -1,6 +1,8 @@
 {
   "name": "@olimpia.spyra/randomid-generator",
-  "version": "1.0.0",
-  "main": "index.js",  
-  "license": "MIT"
+  "version": "1.0.2",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "git@github.com:olimpiaspyra/ID-generator.git",
+  "author": "Olimpia Spyra <olimpia.spyra@gmail.com>"
 }
